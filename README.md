@@ -15,5 +15,5 @@ There are several implemented methods to reverse bits:
 Benchmark measures run times of implementations built by GCC and Clang for every optimization level (Os, O0-O3).
 
 To run:
-* install GCC and Clang
+* install GCC, Clang, Make
 * run `run.sh` script
