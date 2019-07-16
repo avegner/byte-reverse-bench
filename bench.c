@@ -6,7 +6,7 @@
 #include <stdio.h>
 #include <time.h>
 
-#include <reverse.h>
+#include "reverse.h"
 
 const uint32_t g_bench_iters = 1000000LU;
 
